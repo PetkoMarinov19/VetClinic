@@ -1,5 +1,4 @@
-# <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e0f86d4e-2f41-44f8-af05-7615932fe520" />
- Vet Clinic Console App
+#  Vet Clinic Console App
 
 ## Описание
 Vet Clinic Console App е **конзолно приложение**, което симулира управление на **ветеринарна клиника**.  
